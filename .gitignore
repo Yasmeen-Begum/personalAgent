@@ -1,0 +1,28 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Data
+data/
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.hypothesis/
+htmlcov/
+.coverage
+
+# Distribution
+dist/
+build/
+*.egg-info/

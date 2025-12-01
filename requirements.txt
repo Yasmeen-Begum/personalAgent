@@ -1,0 +1,9 @@
+# Core dependencies
+google-genai>=0.2.0
+gradio>=5.0.0
+
+# Data handling
+python-dotenv>=1.0.0
+
+# Type hints
+typing-extensions>=4.8.0
